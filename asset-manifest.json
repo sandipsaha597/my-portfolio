@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a3ced49c.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.2b2ad973.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.2b2ad973.chunk.js.map",
+    "runtime~main.js": "/my-portfolio/static/js/runtime~main.674e5ed7.js",
+    "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.674e5ed7.js.map",
+    "static/js/2.1857569f.chunk.js": "/my-portfolio/static/js/2.1857569f.chunk.js",
+    "static/js/2.1857569f.chunk.js.map": "/my-portfolio/static/js/2.1857569f.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.9dab00a88697c4904336a7342e7b8613.js": "/my-portfolio/precache-manifest.9dab00a88697c4904336a7342e7b8613.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.a3ced49c.chunk.css.map": "/my-portfolio/static/css/main.a3ced49c.chunk.css.map",
+    "static/media/bars.JPG": "/my-portfolio/static/media/bars.8bd0426f.JPG",
+    "static/media/book3D.JPG": "/my-portfolio/static/media/book3D.17a51ab7.JPG",
+    "static/media/customAnimations.JPG": "/my-portfolio/static/media/customAnimations.337f481c.JPG",
+    "static/media/giveAway.JPG": "/my-portfolio/static/media/giveAway.18dc4426.JPG",
+    "static/media/newsSite.JPG": "/my-portfolio/static/media/newsSite.1f47ae77.JPG",
+    "static/media/popUp.JPG": "/my-portfolio/static/media/popUp.98d203ce.JPG",
+    "static/media/profile.JPG": "/my-portfolio/static/media/profile.70b61715.JPG",
+    "static/media/renovation.JPG": "/my-portfolio/static/media/renovation.bfd673f4.JPG",
+    "static/media/self.JPG": "/my-portfolio/static/media/self.1fa5239e.JPG",
+    "static/media/weatherApp.JPG": "/my-portfolio/static/media/weatherApp.a8615aa5.JPG"
+  }
+}
